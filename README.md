@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I currently working on Typescript applications primarily
-- 🌱 I’m currently learning Golang and how to build apps on Salesforce
+- 🔭 I'm currently working on Typescript applications primarily
+- 🌱 I’m learning Golang and how to build apps on Salesforce
 - 💬 Ask me about Typescript / Node.js / React
 - 📫 How to reach me: @Samuel_NET on Twitter
 - 😄 Pronouns: He/Him
