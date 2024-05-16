@@ -1,6 +1,6 @@
 # Hi there! I'm Samuel Okoroafor 👋 
 
-I am a senior software engineer in Berlin, Germany.
+I am a staff software engineer in Berlin, Germany.
 
 What sort of work I do?
 - 👨‍💻 Backend development (ocassionally frontend).
