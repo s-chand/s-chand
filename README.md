@@ -3,7 +3,7 @@
 I am a staff software engineer in Berlin, Germany.
 
 What sort of work I do?
-- 👨‍💻 Backend development (ocassionally frontend).
+- 👨‍💻 Full stack engineering.
 - 🌱 Technical leadership.
 - 🏰 Systems architecture.
 - 🤔 API architecture and design.
@@ -11,5 +11,5 @@ What sort of work I do?
 I'm currently working on...
 
 - 📝 Typescript stuff at work.
-- 🟢 SaaS platform design, development & maintenance
+- 🟢 Solving problems for customers in the finance space
 - 🧭 Developer tooling
